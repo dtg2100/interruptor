@@ -24,7 +24,7 @@ body{
     background-image: linear-gradient(to left,#333,#999);
 }
 .encendido span{
-    background-image: linear-gradient(to left,rgb(32, 255, 62),rgb(157, 255, 0));
+    background-image: linear-gradient(to left,rgb(255, 32, 32),rgb(214, 65, 65));
     animation: halo 0.8s infinite;
 }
 
